@@ -1,0 +1,9 @@
+[package]
+name = "rust_semantic_search"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rust-bert = "0.23.0"
+hnsw_rs = "0.3.2"
+console = "0.16.1"
